@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.outerj.daisy:daisydiff:1.1.14-atlassian-hosted">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/outerj/daisy/daisydiff/1.1.14-atlassian-hosted/daisydiff-1.1.14-atlassian-hosted.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/outerj/daisy/daisydiff/1.1.14-atlassian-hosted/daisydiff-1.1.14-atlassian-hosted-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/outerj/daisy/daisydiff/1.1.14-atlassian-hosted/daisydiff-1.1.14-atlassian-hosted-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
